@@ -7,7 +7,7 @@ to oercome this problem, although then there was trouble with not straightforwar
 out project based on the data from the website www.worldsurfleague.com
 
 Our analysis of the Championship Tour data will take you littlebit into the surfing world. We gathered almost every relevant information 
-about the contestant from the last season. To scraping, we developed class Athlete(), what we used for downloading data.
+about the contestant from the last season. We developed the class Athlete() as a scraper, what we used for downloading data.
 
 Then we looked at the data and got rid of all outliers, missing values or some mistakes, which could break our analysis.
 After initial cleaning, we moved to the visualisation. For the visualisation we used mainly package Plotly, what we found
